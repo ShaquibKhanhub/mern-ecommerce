@@ -1,1 +1,8 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+
+# SECRET KEYS
 .env
